@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Youtube Clone",
+    "desc": "A responsive clone of Youtube, built using React and Node.js, allowing video browsing and playback.",
+    "image": "assets/images/projects/project-1.png",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/ayushixjain/yt-clone"
+    }
+  },
+  {
+    "name": "Yoga Pose Detection",
+    "desc": "Detects and classifies yoga poses using CNN and Yolo.",
+    "image": "assets/images/projects/project-2.png",
+    "category": "ml",
+    "links": {
+      "code": "https://github.com/ayushixjain/Yoga-Pose-Detection"
+    }
+  },
+  {
+    "name": "Yoga with AI",
+    "desc": "An AI-powered platform that guides users through yoga practices using real-time pose correction.",
+    "image": "assets/images/projects/yoga.jpg",
+    "category": "ml",
+    "links": {
+      "code": "https://github.com/ayushixjain/Yoga-with-AI"
+    }
+  },
+  {
+    "name": "Potato Leaf Disease Prediction",
+    "desc": "Utilizes machine learning to detect diseases in potato leaves from images, helping farmers identify issues early.",
+    "image": "assets/images/projects/project-3.png",
+    "category": "ml",
+    "links": {
+      "code": "https://github.com/ayushixjain/potato-leaf-diesease-prediction"
+    }
+  },
+  {
+    "name": "Data Analytics for PCOS",
+    "desc": "Analyze symptom data in young women with PCOS to identify patterns and correlations that could enhance early diagnosis and intervention.",
+    "image": "assets/images/projects/8316-polycystic-ovary-syndrome-pcos.jpg",
+    "category": "ml",
+    "links": {
+      "code": "https://github.com/ayushixjain/Data-Analysis-of-PCOS-Symptoms"
+    }
+  }
+]
